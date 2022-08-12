@@ -1,4 +1,4 @@
-### Hi there 👋
+![Enlysure's GitHub](https://github-readme-stats.vercel.app/api?username=Rovniced&show_icons=true&theme=dark&bg_color=DEG,1E90FF,87CEEB&include_all_commits=true&text_color=E6E6FA&icon_color=FFFACD)
 
 <!--
 **Rovniced/Rovniced** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
