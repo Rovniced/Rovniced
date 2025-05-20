@@ -18,7 +18,7 @@
 
 - 在校学生 A student
 - 喜欢写垃圾代码（） Likes to creat useless things.
-- [个人博客（实际上很少更新的） Personal Blog](https://blog.enlysure.com)
+- [个人主页 Personal Website](https://enlysure.com)
 
 ## 📫Contact me
 
